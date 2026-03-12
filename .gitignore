@@ -16,6 +16,9 @@ venv/
 *.pth
 *.onnx
 
+# large files not needed for deployment
+data/raw/studentVle.csv
+data/processed/interaction_matrix.csv
 
 # OS
 .DS_Store
