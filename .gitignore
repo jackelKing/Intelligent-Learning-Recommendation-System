@@ -16,9 +16,6 @@ venv/
 *.pth
 *.onnx
 
-# Data
-data/
-datasets/
 
 # OS
 .DS_Store
